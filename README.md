@@ -1,2 +1,1 @@
 # pizza
-Practice Pizza Repository
